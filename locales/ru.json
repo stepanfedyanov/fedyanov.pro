@@ -1,0 +1,109 @@
+{
+  "main": {
+    "avatar_alt": "Федянов Степан – Фронтенд-разработчик",
+    "title": "Федянов Степан Фронтенд-разработчик",
+    "about_title": "Обо мне",
+    "about_text": "Фронтенд-разработчик, специализируюсь на&nbsp;разработке веб-приложений и&nbsp;интерфейсов с&nbsp;использованием Vue JS. Также имею опыт работы с&nbsp;фреймворками React и&nbsp;Angular. Разработал более 20&nbsp;проектов, 15&nbsp;их которых получили высшую оценку от&nbsp;заказчика. Получил специальный статус &laquo;Восходящая звезда&raquo; за&nbsp;скорость и&nbsp;качество выполнения заказов. Сейчас работаю в&nbsp;Студии Артемия Лебедева в проекте Николай Иронов.",
+    "contacts_title": "Контакты",
+    "skills_title": "Навыки",
+    "skills": {
+      "0": "HTML и CSS",
+      "1": "JavaScript",
+      "2": "Vue JS",
+      "3": "Nuxt",
+      "4": "Vite",
+      "5": "Webpack",
+      "6": "Docker",
+      "7": "Git",
+      "8": "PHP, Python, C",
+      "9": "SQL"
+    },
+    "education_title": "Образование",
+    "education": {
+      "0": "CS50&rsquo;s Introduction to&nbsp;Computer Science",
+      "1": "CS50&rsquo;s Web Programming with Python and JavaScript",
+      "2": "Google UX&nbsp;Design Professional Certificate"
+    },
+    "also_title": "Также знаю",
+    "also": {
+      "0": "Алгоритмы",
+      "1": "Типы данных",
+      "2": "Работа с базами данных",
+      "3": "Проектирование информационных систем",
+      "4": "Тестирование, CI/CD",
+      "5": "SEO-оптимизация"
+    }
+  },
+  "contacts": {
+    "email": "stepan{'@'}fedyanov.ru",
+    "tg_link": "https://t.me/stepanfedyanov",
+    "tg_text": "t.me/stepanfedyanov",
+    "linkedin_link": "https://www.linkedin.com/in/stepanfedyanov/",
+    "linkedin_text": "linkedin.com/in/stepanfedyanov",
+    "github_link": "https://github.com/stepanfedyanov",
+    "github_text": "github.com/stepanfedyanov",
+    "blog_text": "Мой блог Мам, я программист",
+    "blog_link": "https://t.me/mumproger"
+  },
+  "experience": {
+    "title": "Опыт работы",
+    "work_list": {
+      "freelance": {
+        "title": "Фриланс",
+        "position": "Веб-разработчик",
+        "time": "с января 2021 по май 2023 (2 года и 5 месяцев)",
+        "tasks": {
+          "0": "Разрабатывал сайты &laquo;под ключ&raquo; с&nbsp;использованием CMS Битрикс, Wordpress, Django, Strapi",
+          "1": "Занимался разработкой&nbsp;UI и&nbsp;исследованиями UX",
+          "2": "Занимался доработкой и&nbsp;рефакторингом существующих сайтов на&nbsp;HTML/CSS, JavaScript, ReactJS, VueJS и&nbsp;другое",
+          "3": "Предоставлял техническую поддержку сайтов: работал с контентом, обновлял дизайн и программное обеспечение",
+          "4": "Разрабатывал телеграм-ботов с&nbsp;использованием библиотеки Python aiogram",
+          "5": "Профиль на фриланс-бирже: <a class='link_underlined' href='https://kwork.ru/user/by_fedyanov' target='_blank'>kwork.ru/user/by_fedyanov</a>"
+        },
+        "projects_title": "Интересные проекты за это время",
+        "vinilavanila": {
+          "title": "Плеер VinilaVanila Radio",
+          "link_text": "vinilavanila.com",
+          "link_url": "https://vinilavanila.com/",
+          "subtitle": "Онлайн-радио “Vinila Vanila”"
+        },
+        "samprachka": {
+          "title": "СамПРАЧКА",
+          "link_text": "samprachka.ru",
+          "link_url": "https://samprachka.ru/",
+          "subtitle": "Сеть прачечных самообслуживания «СамПРАЧКА»"
+        },
+        "24mkk": {
+          "title": "«Родная мебель»",
+          "link_text": "24mkk.ru",
+          "link_url": "https://24mkk.ru/",
+          "subtitle": "Мебельная фабрика «Родная мебель»"
+        }
+      },
+      "lebedev": {
+        "title": "Студия Артемия Лебедева",
+        "position": "Фронтенд-разработчик",
+        "time": "стажировка с июня 2023 по август 2023, полная занятость с августа 2023 по настоящее время",
+        "tasks": {
+          "0": "Занимаюсь разработкой пользовательского интерфейса Николая Иронова на&nbsp;VueJS – <a class='link_underlined' href='https://ironov.artlebedev.com/ru/' target='_blank'>ironov.ai</a>",
+          "1": "Работаю с&nbsp;анимацией на&nbsp;JavaScript",
+          "2": "Создаю графику с&nbsp;использование SVG и&nbsp;PaperJS",
+          "3": "Занимаюсь рефакторингом и&nbsp;оптимизацией пользовательского интерфейса",
+          "4": "Помогаю в&nbsp;проектировании используемых данных"
+        }
+      }
+    }
+  },
+  "footer": {
+    "title": "Если вы&nbsp;тут, значит мне будет приятно иметь с&nbsp;вами дело!",
+    "contacts_title": "Свяжитесь с помощью контактов",
+    "form_title": "Или оставьте свое сообщение в форме"
+  },
+  "form": {
+    "name": "Ваше имя*",
+    "email": "Ваша электронная почта*",
+    "message": "Сообщение",
+    "send": "Отправить",
+    "additional": "В&nbsp;поле &laquo;Сообщение&raquo; вы&nbsp;можете оставить дополнительные контактные данные"
+  }
+}

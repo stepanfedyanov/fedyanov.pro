@@ -1,0 +1,109 @@
+{
+  "main": {
+    "avatar_alt": "Stepan Fedyanov - Frontend Developer",
+    "title": "Stepan Fedyanov Frontend Developer",
+    "about_title": "About Me",
+    "about_text": "Front-end developer, specializing in&nbsp;the development of&nbsp;web applications and interfaces using Vue JS. I&nbsp;also have experience with React and Angular frameworks. I&nbsp;have developed more than 20&nbsp;projects, 15&nbsp;of&nbsp;which have received the highest rating from the customer. I&nbsp;have received a&nbsp;special \"Rising Star\" status for the speed and quality of&nbsp;my&nbsp;work. I&nbsp;am currently a&nbsp;developer at&nbsp;the Art. Lebedev Studio in&nbsp;the Nikolay Ironov project.",
+    "contacts_title": "Contacts",
+    "skills_title": "Skills",
+    "skills": {
+      "0": "HTML and CSS",
+      "1": "JavaScript",
+      "2": "Vue JS",
+      "3": "Nuxt",
+      "4": "Vite",
+      "5": "Webpack",
+      "6": "Docker",
+      "7": "Git",
+      "8": "PHP, Python, C",
+      "9": "SQL"
+    },
+    "education_title": "Education",
+    "education": {
+      "0": "CS50&rsquo;s Introduction to&nbsp;Computer Science",
+      "1": "CS50&rsquo;s Web Programming with Python and JavaScript",
+      "2": "Google UX&nbsp;Design Professional Certificate"
+    },
+    "also_title": "Also Familiar With",
+    "also": {
+      "0": "Algorithms",
+      "1": "Data Types",
+      "2": "Working with Databases",
+      "3": "Information Systems Design",
+      "4": "Testing, CI/CD",
+      "5": "SEO Optimization"
+    }
+  },
+  "contacts": {
+    "email": "stepan{'@'}fedyanov.ru",
+    "tg_link": "https://t.me/stepanfedyanov",
+    "tg_text": "t.me/stepanfedyanov",
+    "linkedin_link": "https://www.linkedin.com/in/stepanfedyanov/",
+    "linkedin_text": "linkedin.com/in/stepanfedyanov",
+    "github_link": "https://github.com/stepanfedyanov",
+    "github_text": "github.com/stepanfedyanov",
+    "blog_text": "Blog Mom, I'm a programmer",
+    "blog_link": "https://t.me/mumproger"
+  },
+  "experience": {
+    "title": "Work Experience",
+    "work_list": {
+      "freelance": {
+        "title": "Freelance",
+        "position": "Web Developer",
+        "time": "January 2022 to May 2023 (1 year and 5 months)",
+        "tasks": {
+          "0": "Developed websites from scratch using CMS such as&nbsp;Bitrix, Wordpress, Django, Strapi",
+          "1": "Worked on&nbsp;enhancements and refactoring of&nbsp;existing websites using HTML/CSS, JavaScript, ReactJS, VueJS",
+          "3": "Worked on UI development and UX research",
+          "2": "Provided technical support for websites over several months: working with content, update UI and update software",
+          "4": "Developed Telegram bots using Python aiogram",
+          "5": "Profile on freelance platform: <a class='link_underlined' href='https://kwork.ru/user/by_fedyanov' target='_blank'>kwork.ru/user/by_fedyanov</a>"
+        },
+        "projects_title": "Interesting Projects During This Time",
+        "vinilavanila": {
+          "title": "VinilaVanila Radio Player",
+          "link_text": "vinilavanila.com",
+          "link_url": "https://vinilavanila.com/",
+          "subtitle": "Online radio Vinila Vanila"
+        },
+        "samprachka": {
+          "title": "SamPRACHKA",
+          "link_text": "samprachka.ru",
+          "link_url": "https://samprachka.ru/",
+          "subtitle": "Self-service laundry network SamPRACHKA"
+        },
+        "24mkk": {
+          "title": "Rodnaya Mebel (Native Furniture)",
+          "link_text": "24mkk.ru",
+          "link_url": "https://24mkk.ru/",
+          "subtitle": "Furniture factory Rodnaya Mebel (Native Furniture)"
+        }
+      },
+      "lebedev": {
+        "title": "Art. Lebedev Studio",
+        "position": "Frontend Developer",
+        "time": "Internship from June 2023, Full-time from September 2023 to the present",
+        "tasks": {
+          "0": "Work on&nbsp;the development of&nbsp;user interface for Nikolay Ironov on&nbsp;VueJS - <a class='link_underlined' href='https://ironov.artlebedev.com/ru/' target='_blank'>ironov.ai</a>",
+          "1": "Work with animations using JavaScript",
+          "2": "Create graphics using SVG and PaperJS",
+          "3": "Work on&nbsp;refactoring and optimizing the user interface",
+          "4": "Assist in&nbsp;designing the data used in&nbsp;projects"
+        }
+      }
+    }
+  },
+  "footer": {
+    "title": "If&nbsp;you are here, it&nbsp;means I&rsquo;ll be&nbsp;happy to&nbsp;do&nbsp;business with you!",
+    "contacts_title": "Get in&nbsp;Touch Using the Contacts Below",
+    "form_title": "Or&nbsp;Leave Your Message in&nbsp;the Form"
+  },
+  "form": {
+    "name": "Your Name*",
+    "email": "Your Email*",
+    "message": "Message",
+    "send": "Send",
+    "additional": "In&nbsp;the &rsquo;Message&rsquo; field, you can leave additional contact information"
+  }
+}
